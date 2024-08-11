@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Rishabh_Portfolio/static/css/main.4cb885f3.css",
+    "main.js": "/Rishabh_Portfolio/static/js/main.d80b4a9a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Rishabh_Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Rishabh_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-bg.jpg": "/Rishabh_Portfolio/static/media/home-bg.8e6e58dde2891bc66715.jpg",
+    "static/media/RishabhCVOffCampus.pdf": "/Rishabh_Portfolio/static/media/RishabhCVOffCampus.7187d47b7faf8d81dd46.pdf",
+    "static/media/restaurant.png": "/Rishabh_Portfolio/static/media/restaurant.260fecbe6419832cc4b6.png",
+    "static/media/weather.png": "/Rishabh_Portfolio/static/media/weather.7ee43bcecec5e85163cf.png",
+    "static/media/portfolio.png": "/Rishabh_Portfolio/static/media/portfolio.ef1b61b18e6a8960deb2.png",
+    "static/media/chatify.png": "/Rishabh_Portfolio/static/media/chatify.af903035a23e2cf64a37.png",
+    "static/media/home-main.png": "/Rishabh_Portfolio/static/media/home-main.66c4ba90b39d6d27dac8.png",
+    "static/media/about.png": "/Rishabh_Portfolio/static/media/about.87007dccbd0d54cc9424.png",
+    "static/media/avatar.png": "/Rishabh_Portfolio/static/media/avatar.fcaca13601def31c1816.png",
+    "static/media/blog.png": "/Rishabh_Portfolio/static/media/blog.c7e0a3090972cab2047f.png",
+    "static/media/logo.png": "/Rishabh_Portfolio/static/media/logo.a775d3fc66ad8805750b.png",
+    "static/media/pre.svg": "/Rishabh_Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Rishabh_Portfolio/index.html",
+    "main.4cb885f3.css.map": "/Rishabh_Portfolio/static/css/main.4cb885f3.css.map",
+    "main.d80b4a9a.js.map": "/Rishabh_Portfolio/static/js/main.d80b4a9a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Rishabh_Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Rishabh_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb885f3.css",
+    "static/js/main.d80b4a9a.js"
+  ]
+}
